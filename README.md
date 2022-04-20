@@ -28,7 +28,7 @@ Love ❌ code ✅
   
 2. Double click on the file called `ToolRunner.exe`
   
-3. The tool is ready now !
+3. The tool is now ready !
   
 ### ❗・Notes
 
@@ -38,7 +38,7 @@ Love ❌ code ✅
 
 3 - How to input the url example on youtube :
  
-❌ https://youtube.com **|** ✅ youtube.com
+❌ https://youtube.com **-|-** ✅ youtube.com
 
 4 - if you got any issue please contact me in the issues box
   
